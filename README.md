@@ -1,4 +1,4 @@
-# tmux
+# Just enough tmux conf
 ˗ˏˋ ★ ˎˊ˗ The best and greatest tmux.conf ever created by human inteligence :) and made with ❤️ ˗ˏˋ ★ ˎˊ˗ 
 
 Installation
