@@ -15,11 +15,11 @@ echo $TERM
 ```
 Installing in `~`:
 ```
-# enter in your users' home folder
+# enter your home folder
 cd
 # clone this repository in a .tmux folder
 git clone --single-branch https://github.com/synergops/.tmux.git
-# create a shortcut of the .tmux.conf in users' home folder
+# create a shortcut of the .tmux.conf in your home folder
 ln -s -f .tmux/.tmux.conf .
 ```
 Bindings
