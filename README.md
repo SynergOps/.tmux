@@ -21,6 +21,7 @@ echo "cloning the repository in a .tmux folder"
 git clone --single-branch https://github.com/synergops/.tmux.git
 echo "creating a shortcut of the .tmux.conf in your home folder"
 ln -s -f .tmux/.tmux.conf .
+echo "   Enjoy \!"
 ```
 Bindings
 --------
